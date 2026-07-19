@@ -1,6 +1,6 @@
  # discrete_elementGPU
 This code simulates the discrete element method for a predifined number of motile discs, which are called cells.
-Each cell can respond to an external signalling gradient and the parallel code is implemented over the cells. The code was originally developed to run on an NVIDIA Tesla C1060 and was used to generate the results published in the paper: # Directional Collective Cell Migration Emerges as a Property of Cell Interactions https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104969
+Each cell can respond to an external signalling gradient and the parallel code is implemented over the cells. The code was originally developed to run on an NVIDIA Tesla C1060 and was used to generate the results published in the paper: Directional Collective Cell Migration Emerges as a Property of Cell Interactions https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104969
 
 DEMCode is a CUDA implementation of the discrete element method that can be used to model collective cell migration.
 
